@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  <system systemId="http://www.springframework.org/schema/beans/spring-beans-4.2.xsd" uri="file:///F:/course/项目2/day01/01.教案-3.0/01.参考资料/spring约束/spring-beans-4.2.xsd"/>
+  <system systemId="http://www.springframework.org/schema/context/spring-context-4.2.xsd" uri="file:///F:/course/项目2/day01/01.教案-3.0/01.参考资料/spring约束/spring-context-4.2.xsd"/>
+  <system systemId="http://www.springframework.org/schema/tx/spring-tx-4.2.xsd" uri="file:///F:/course/项目2/day01/01.教案-3.0/01.参考资料/spring约束/spring-tx-4.2.xsd"/>
+  <system systemId="http://www.springframework.org/schema/mvc/spring-mvc-4.2.xsd" uri="file:///F:/course/项目2/day01/01.教案-3.0/01.参考资料/spring约束/spring-mvc-4.2.xsd"/>
+  <system systemId="http://www.springframework.org/schema/aop/spring-aop-4.2.xsd" uri="file:///F:/course/项目2/day01/01.教案-3.0/01.参考资料/spring约束/spring-aop-4.2.xsd"/>
+</catalog>
